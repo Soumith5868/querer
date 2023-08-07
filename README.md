@@ -1,8 +1,6 @@
 
 # Querer
 
-This project was done as part of course **CS-3563** which was organized by **Dr. Manish Singh** which aims to develop a **Community Question and Answer website**
-
 
 ## Authors
 
