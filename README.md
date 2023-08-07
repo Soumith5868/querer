@@ -6,15 +6,15 @@ This project was done as part of course **CS-3563** which was organized by **Dr.
 
 ## Authors
 
-- [@anudeep512](https://www.github.com/anudeep512)
+- [@soumith5868](https://github.com/Soumith5868)
 
 
 ## Team
 
-- [@Anudeep Rao Perala](https://www.github.com/anudeep512)
-- [@Srinith Dasari](https://www.github.com/anudeep512)
-- [@Pranav Varma Pericherla](https://www.github.com/anudeep512)
-- [@Sai Vamsi Narsupalli](https://www.github.com/anudeep512)
+- [@soumith5868](https://github.com/Soumith5868)
+- [@Srinith Dasari](https://github.com/Soumith5868)
+- [@Pranav Varma Pericherla](https://github.com/Soumith5868)
+- [@Sai Vamsi Narsupalli](https://github.com/Soumith5868)
 
 
 ## Tech Stack
@@ -34,12 +34,6 @@ This project was done as part of course **CS-3563** which was organized by **Dr.
 The overall implementation review of the project can be found in the **Querer.pdf**
 
 For information regarding database in the aspects of **Schema definations**, **Functions**, **Triggers** please look into **Database.pdf** 
-
-## Teamwise Contribution 
-
-- **Frontend :** [@Sai Vamsi Narsupalli](https://www.github.com/anudeep512)
-- **Backend :** [@Srinith Dasari](https://www.github.com/anudeep512), [@Pranav Varma Pericherla](https://www.github.com/anudeep512)
-- **Database :** [@Anudeep Rao Perala](https://www.github.com/anudeep512)
 
 ## My Contribution
 
